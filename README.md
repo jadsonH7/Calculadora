@@ -1,9 +1,9 @@
 # Calculadora
 
-Esta calculadora foi feita com as lingugeam
+Está calculadora,foi feita com as linguagem.
 * HTML
-* CSS3
+- CSS3
 * JavaScript
 
-Ela e facil de ser ultilizada, simples na hora do uso não deixa duvida.
-Peformance agil para responder a qualquer calculo nas suas funções atribuida.
+Ela é fácil de ser ultilizada,simples na hora do uso não deixa dúvida.
+Peformance agil para responder a qualquer cálculo nas suas funções atribuída.
